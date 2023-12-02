@@ -1,0 +1,30 @@
+/*channge Brand name color*/
+.navbar-brand{
+
+    font-family: 'Ubuntu', sans-serif;
+    font-size:2em;
+    font-weight: bold;
+    padding-left: 1.5cap;
+  
+}
+
+/*channge menue color*/
+.navbar #navbarTogglerDemo01 .custom-nav .nav-item a{
+
+    color:#fff;
+
+}
+.navbar #navbarTogglerDemo01 .custom-nav .nav-item a:hover{
+
+    color:#f0aab1;
+
+}
+
+
+/*make header image responsive*/
+.back-image{
+    background-size: cover;
+    min-height: 70vh;
+   
+}
+
